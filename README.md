@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **sumeyyegencer/sumeyyegencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+            
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ ### 🌎 Hello World! 
+<hr>
+ I'm Sumeyye.I'm computer engineer.I'm here for my projects share you.I hope will be useful for coders.
+
+
+
