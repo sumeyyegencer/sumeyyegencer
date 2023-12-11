@@ -22,8 +22,5 @@ Here are some ideas to get you started:
 <br>
 
 
-[<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=sumeyyegencer&label=Profile%20Views&color=4&icon=5&pretty=true" />
-</a>
-](url)
+
 
